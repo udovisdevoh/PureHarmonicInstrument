@@ -5,6 +5,10 @@ VisualStudioVersion = 16.0.31005.135
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PureHarmonicInstrumentApp", "PureHarmonicInstrumentApp.csproj", "{1D241A8A-D2FD-4610-A258-8F30FCAD7858}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ExternalDependencies", "ExternalDependencies", "{F6E85C6D-07BD-46CC-ADB8-DBBF06AE2832}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sampler", "..\Sampler\Sampler.csproj", "{D998716F-BD20-4BFF-9E96-EA8019436BF2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,9 +19,16 @@ Global
 		{1D241A8A-D2FD-4610-A258-8F30FCAD7858}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1D241A8A-D2FD-4610-A258-8F30FCAD7858}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1D241A8A-D2FD-4610-A258-8F30FCAD7858}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D998716F-BD20-4BFF-9E96-EA8019436BF2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D998716F-BD20-4BFF-9E96-EA8019436BF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D998716F-BD20-4BFF-9E96-EA8019436BF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D998716F-BD20-4BFF-9E96-EA8019436BF2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{D998716F-BD20-4BFF-9E96-EA8019436BF2} = {F6E85C6D-07BD-46CC-ADB8-DBBF06AE2832}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {EC2EB7DD-B904-4AC5-AFD5-D92D13287111}
