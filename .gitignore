@@ -1,5 +1,3 @@
-/PureHarmonicInstrumentApp/bin
-/PureHarmonicInstrumentApp/obj
-/PureHarmonicInstrumentApp/.vs
-/Sampler/obj
-/Sampler/bin
+/obj
+/.vs
+/bin
