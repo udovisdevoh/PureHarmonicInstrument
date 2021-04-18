@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PureHarmonicInstrumentApp", "PureHarmonicInstrumentApp.csproj", "{1D241A8A-D2FD-4610-A258-8F30FCAD7858}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1D241A8A-D2FD-4610-A258-8F30FCAD7858}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D241A8A-D2FD-4610-A258-8F30FCAD7858}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D241A8A-D2FD-4610-A258-8F30FCAD7858}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D241A8A-D2FD-4610-A258-8F30FCAD7858}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EC2EB7DD-B904-4AC5-AFD5-D92D13287111}
+	EndGlobalSection
+EndGlobal

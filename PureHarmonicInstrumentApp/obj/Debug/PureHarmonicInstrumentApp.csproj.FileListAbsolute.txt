@@ -1,0 +1,10 @@
+D:\anonymous\Documents\Programming\C Sharp\PureHarmonicInstrument\PureHarmonicInstrumentApp\bin\Debug\PureHarmonicInstrumentApp.exe.config
+D:\anonymous\Documents\Programming\C Sharp\PureHarmonicInstrument\PureHarmonicInstrumentApp\bin\Debug\PureHarmonicInstrumentApp.exe
+D:\anonymous\Documents\Programming\C Sharp\PureHarmonicInstrument\PureHarmonicInstrumentApp\bin\Debug\PureHarmonicInstrumentApp.pdb
+D:\anonymous\Documents\Programming\C Sharp\PureHarmonicInstrument\PureHarmonicInstrumentApp\obj\Debug\PureHarmonicInstrumentApp.csprojAssemblyReference.cache
+D:\anonymous\Documents\Programming\C Sharp\PureHarmonicInstrument\PureHarmonicInstrumentApp\obj\Debug\PureHarmonicInstrumentApp.csproj.GenerateResource.cache
+D:\anonymous\Documents\Programming\C Sharp\PureHarmonicInstrument\PureHarmonicInstrumentApp\obj\Debug\PureHarmonicInstrumentApp.csproj.CoreCompileInputs.cache
+D:\anonymous\Documents\Programming\C Sharp\PureHarmonicInstrument\PureHarmonicInstrumentApp\obj\Debug\PureHarmonicInstrumentApp.exe
+D:\anonymous\Documents\Programming\C Sharp\PureHarmonicInstrument\PureHarmonicInstrumentApp\obj\Debug\PureHarmonicInstrumentApp.pdb
+D:\anonymous\Documents\Programming\C Sharp\PureHarmonicInstrument\PureHarmonicInstrumentApp\obj\Debug\PureHarmonicInstrument.Properties.Resources.resources
+D:\anonymous\Documents\Programming\C Sharp\PureHarmonicInstrument\PureHarmonicInstrumentApp\obj\Debug\PureHarmonicInstrumentApp.MainForm.resources
