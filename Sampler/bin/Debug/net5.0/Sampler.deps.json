@@ -1,0 +1,53 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Sampler/1.0.0": {
+        "dependencies": {
+          "SdlDotNet": "6.1.0.0",
+          "Tao.Sdl": "1.2.13.0"
+        },
+        "runtime": {
+          "Sampler.dll": {}
+        }
+      },
+      "SdlDotNet/6.1.0.0": {
+        "runtime": {
+          "SdlDotNet.dll": {
+            "assemblyVersion": "6.1.0.0",
+            "fileVersion": "6.1.0.0"
+          }
+        }
+      },
+      "Tao.Sdl/1.2.13.0": {
+        "runtime": {
+          "Tao.Sdl.dll": {
+            "assemblyVersion": "1.2.13.0",
+            "fileVersion": "1.2.13.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Sampler/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SdlDotNet/6.1.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Tao.Sdl/1.2.13.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
